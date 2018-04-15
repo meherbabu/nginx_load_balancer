@@ -1,0 +1,22 @@
+2018/04/14 16:03:22 [emerg] 1556#8048: "upstream" directive is not allowed here in C:\nginx-1.12.2/conf/nginx.conf:1
+2018/04/14 16:07:48 [emerg] 6268#13268: no "events" section in configuration
+2018/04/14 16:08:18 [notice] 9304#6620: signal process started
+2018/04/14 16:10:04 [emerg] 7448#12596: invalid host in upstream "localhost:8081/emp" in C:\nginx-1.12.2/conf/nginx.conf:7
+2018/04/14 16:10:15 [notice] 4940#1256: signal process started
+2018/04/14 16:14:07 [notice] 8828#11112: signal process started
+2018/04/14 16:14:13 [error] 11828#1124: *13 CreateFile() "C:\nginx-1.12.2/html/emp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /emp HTTP/1.1", host: "localhost"
+2018/04/14 16:14:13 [error] 11828#1124: *13 CreateFile() "C:\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/emp"
+2018/04/14 16:14:38 [error] 11828#1124: *13 CreateFile() "C:\nginx-1.12.2/html/emp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /emp HTTP/1.1", host: "localhost"
+2018/04/14 16:14:55 [error] 11828#1124: *13 CreateFile() "C:\nginx-1.12.2/html/nva" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /nva HTTP/1.1", host: "localhost"
+2018/04/14 16:14:58 [error] 11828#1124: *13 CreateFile() "C:\nginx-1.12.2/html/nva" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /nva HTTP/1.1", host: "localhost"
+2018/04/14 16:14:59 [error] 11828#1124: *13 CreateFile() "C:\nginx-1.12.2/html/nva" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /nva HTTP/1.1", host: "localhost"
+2018/04/14 16:22:08 [notice] 12460#11544: signal process started
+2018/04/14 16:23:51 [notice] 12648#9372: signal process started
+2018/04/14 16:25:42 [notice] 12900#8268: signal process started
+2018/04/14 16:38:15 [notice] 3332#2584: signal process started
+2018/04/14 16:41:28 [notice] 8788#12380: signal process started
+2018/04/14 16:42:06 [notice] 3760#12624: signal process started
+2018/04/14 16:44:16 [emerg] 12340#12476: invalid host in upstream "localhost:8081/nva" in C:\nginx-1.12.2/conf/nginx.conf:7
+2018/04/14 16:44:38 [emerg] 212#11660: unexpected "}" in C:\nginx-1.12.2/conf/nginx.conf:22
+2018/04/14 16:45:15 [notice] 11568#1732: signal process started
+2018/04/14 16:45:52 [notice] 12660#11472: signal process started
